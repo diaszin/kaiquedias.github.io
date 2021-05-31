@@ -76,6 +76,9 @@ div#fim{
      border-style: dotted;
      border-radius: 10px;
  }
+div#fim form input::placeholder:last-child{
+    font-size: 8px;
+}
  div#fim form button{
      height: 30px; 
      padding-inline: 65px;
