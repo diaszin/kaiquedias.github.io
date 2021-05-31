@@ -63,6 +63,7 @@ div.price button{
     text-decoration: none;
     text-decoration:solid;
     border-radius: 8px;
+    cursor: pointer;
 }
 div#fim{
     background-color: seashell;
@@ -81,6 +82,7 @@ div#fim{
      border-radius: 10px;
      background-color: teal;
      color: lightcyan;
+     cursor: pointer;
  }
 
 div#fim form p{
